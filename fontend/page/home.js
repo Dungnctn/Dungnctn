@@ -1,6 +1,9 @@
+import Footer from "../compernents/footer";
 import Header from "../compernents/header";
 import HeadContent from "./headcontent";
+import PopularProduct from "./popu_pro";
 import Slider from "./slide";
+import Tab from "./tab";
 
 const Home = {
     render() {
@@ -10,6 +13,9 @@ const Home = {
             ${Header.render()}
             ${Slider.render()}
             ${HeadContent.render()}
+            ${PopularProduct.render()}
+            ${Tab.render()}
+            ${Footer.render()}
         </div>
         `;
         
