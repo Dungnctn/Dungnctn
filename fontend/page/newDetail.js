@@ -25,7 +25,7 @@ const NewDetail = {
         <li>
           <div class="flex items-center">
             <a href="#" class="mr-2 text-sm font-medium text-gray-900">
-              Sản phẩm
+              Chi tiết sản phẩm
             </a>
           </div>
         </li>
