@@ -123,7 +123,7 @@ const data = [
         "createdAt": "2022-01-11T03:02:51.996Z",
         "title": "Daryl Hettinger I",
         "price": "80000",
-        "img": "../fontend/images/product_7.png",
+        "img": "../fontend/images/product_6.png",
         "desc": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
         "id": "16"
       },
@@ -131,7 +131,7 @@ const data = [
         "createdAt": "2022-01-10T20:16:49.772Z",
         "title": "Heather Miller",
         "price": "80000",
-        "img": "../fontend/images/product_6.png",
+        "img": "../fontend/images/product_4.png",
         "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
         "id": "17"
       }
