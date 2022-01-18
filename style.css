@@ -1,3 +1,7 @@
 .user:hover .abc{
     display: inline-block;
   }
+
+.sort:hover .sort_down{
+  display: inline-block;
+}

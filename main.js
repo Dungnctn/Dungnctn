@@ -3,6 +3,7 @@ import Dashboard from "./backend/dashboard";
 import AdminNew from "./backend/new";
 import AdminAddNew from "./backend/newadd";
 import Home from "./fontend/page/home";
+import NewDetail from "./fontend/page/newDetail";
 import Product from "./fontend/page/product";
 import Signin from "./fontend/page/signin";
 
@@ -31,6 +32,10 @@ router.on({
     "/admin/news/add": () => {
         print(AdminAddNew.render());
     },
+    "/news/:id": ({data}) => {
+        const {id} = data;
+        print(NewDetail.render(id));
+    }
 })
 
 
