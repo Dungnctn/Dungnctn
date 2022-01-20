@@ -3,7 +3,7 @@ const Footer = {
         return /*html*/ `
         <div class=" grid grid-cols-4 gap-2 max-w-7xl mx-auto mb-8">
         <div class="mx-auto font-bold">
-          <img src="http://rubee.com.vn/admin/img/news/201508281355281f8979c25882c2299311cd761870aecf.png" alt="" class="w-36">
+          <img src="https://www.bdresearch.org/wp-content/uploads/2019/10/versace-logo.jpg" alt="" class="w-36">
           <a href="">Giới thiệu</a><br>
           <a href="">Điều khoản sử dụng</a><br>
           <a href="">Công nghệ sản xuất</a>

@@ -4,13 +4,13 @@ const Nav = {
             <nav class="max-w-7xl mx-auto bg-[#ffffff]">
                 <div class="inline-block">
                     <a href="">
-                    <img src="http://rubee.com.vn/admin/img/news/201508281355281f8979c25882c2299311cd761870aecf.png" alt="" class="w-36">
+                    <img src="https://www.bdresearch.org/wp-content/uploads/2019/10/versace-logo.jpg" alt="" class="w-40">
                 </div>
                 <div class="float-right">
                     <ul class="flex">
                         <li><a href="/"        class=" py-10 px-4 font-bold float-right">Trang chủ</a></li>
                         <li><a href="/product"    class=" py-10 px-4 font-bold float-right">Sản phẩm</a></li>
-                        <li><a href="/news"    class=" py-10 px-4 font-bold float-right">Page</a></li>
+                        <li><a href="/blog"    class=" py-10 px-4 font-bold float-right">Blog</a></li>
                         <li><a href="/product" class=" py-10 px-4 font-bold float-right">Liên hệ</a></li>
                         <li><a href="/product" class=" py-10 px-4 font-bold float-right">Tuyển dụng</a></li>
                         <li class="px-3">
