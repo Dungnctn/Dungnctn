@@ -36,8 +36,5 @@ router.on({
         const {id} = data;
         print(NewDetail.render(id));
     }
-})
-
-
-
-router.resolve();
+}).resolve()
+// router.resolve();

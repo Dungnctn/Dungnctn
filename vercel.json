@@ -1,0 +1,41 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/"
+        },
+        {
+            "src": "/news",
+            "src": "/"
+        },
+        {
+            "src": "/news/:id",
+            "src": "/"
+        },
+        {
+            "src": "/news/:id",
+            "src": "/"
+        },
+        {
+            "src": "/signin",
+            "src": "/"
+        },
+        {
+            "src": "/product",
+            "src": "/"
+        },
+        {
+            "src": "/admin/news",
+            "src": "/"
+        },
+        {
+            "src": "/admin/news/add",
+            "src": "/"
+        },
+        {
+            "src": "/admin/dashboard",
+            "src": "/"
+        }
+        
+    ]
+}
