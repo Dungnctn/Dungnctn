@@ -11,8 +11,8 @@ const Nav = {
                         <li><a href="/"        class=" py-10 px-4 font-bold float-right">Trang chủ</a></li>
                         <li><a href="/product"    class=" py-10 px-4 font-bold float-right">Sản phẩm</a></li>
                         <li><a href="/blog"    class=" py-10 px-4 font-bold float-right">Blog</a></li>
-                        <li><a href="/product" class=" py-10 px-4 font-bold float-right">Liên hệ</a></li>
-                        <li><a href="/product" class=" py-10 px-4 font-bold float-right">Tuyển dụng</a></li>
+                        <li><a href="/introduct" class=" py-10 px-4 font-bold float-right">Giới thiệu</a></li>
+                        <li><a href="/contact" class=" py-10 px-4 font-bold float-right">Liên hệ</a></li>
                         <li class="px-3">
                             <a href="/cart">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="-ml-1 mr-2 h-5 w-5 mt-4 w-10 h-10" viewBox="0 0 20 20" fill="currentColor">

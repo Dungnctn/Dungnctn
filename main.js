@@ -3,7 +3,9 @@ import Dashboard from "./backend/dashboard";
 import AdminNew from "./backend/new";
 import AdminAddNew from "./backend/newadd";
 import Blog from "./fontend/page/blog";
+import Contact from "./fontend/page/contact";
 import Home from "./fontend/page/home";
+import Introduct from "./fontend/page/introduct";
 import NewDetail from "./fontend/page/newDetail";
 import Product from "./fontend/page/product";
 import Signin from "./fontend/page/signin";
@@ -24,6 +26,12 @@ router.on({
     },
     "/blog": () => {
         print(Blog.render());
+    },
+    "/introduct": () => {
+        print(Introduct.render());
+    },
+    "/contact": () => {
+        print(Contact.render());
     },
     "/signin": () => {
         print(Signin.render());

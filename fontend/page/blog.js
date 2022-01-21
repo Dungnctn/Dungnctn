@@ -6,7 +6,7 @@ const Blog = {
         return /*html*/ `
             ${Header.render()}
             <div class="max-w-7xl mx-auto mb-20">
-                <ol role="list" class="max-w-2xl mt-10 mx-auto px-4 flex items-center space-x-2 sm:px-6 lg:max-w-7xl lg:px-8">
+                <ol role="list" class="bg-[#F1F1F1] max-w-2xl mt-10 mx-auto px-4 py-2 flex items-center space-x-2 sm:px-6 lg:max-w-7xl lg:px-8">
                     <li>
                     <div class="flex items-center">
                         <a href="/" class="mr-2 text-sm font-medium text-gray-900">
