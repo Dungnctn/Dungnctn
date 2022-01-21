@@ -21,7 +21,7 @@ const Contact = {
                     <li>
                     <div class="flex items-center">
                         <a href="#" class="mr-2 text-sm font-medium text-gray-900">
-                        Blog
+                        Liên hệ
                         </a>
                     </div>
                     </li>
